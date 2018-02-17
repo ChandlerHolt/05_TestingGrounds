@@ -1,7 +1,6 @@
 # Testing Grounds
 
-## A game where your objective is to escape a seemingly never ending facility
-by sneaking past the guards, or taking them out as you go
+## A game where your objective is to escape a seemingly never ending facility by sneaking past the guards, or taking them out as you go
 
 ### In The Works:
 1. Ai Perception
